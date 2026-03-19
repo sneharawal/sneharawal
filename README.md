@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--# 💫 About Me:
+# 💫 About Me:
 I am a beginner software engineer with a strong interest in learning and growing in the field of technology. I am building my foundation in programming, problem-solving, and software development concepts while continuously improving my skills through practice and projects.<br><br>I enjoy understanding how things work behind the scenes and applying logic to create simple, efficient solutions. As a learner, I am open to feedback, eager to explore new tools and technologies, and committed to developing good coding habits and a strong technical mindset.<br><br>I am looking for opportunities where I can learn from experienced professionals, contribute as a team member, and gradually grow into a skilled software engineer.
 
 
